@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Jeff</h1>
-<h3 align="center">A passionate Software Engineer from Taiwan</h3>
+<h3 align="center">A Software Engineer, passionate about research and development</h3>
 
 - 🔭 I’m currently working on [ERP system](https://github.com/meetjeff/ERP)
 
