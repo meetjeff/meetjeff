@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [ERP system](https://github.com/meetjeff/ERP)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Azure**
 
-- 💬 Ask me about **Flask, Python, Linux, Azure**
+- 💬 Ask me about **Flask, Python, Linux, Azure, SQL, Web development**
 
 - 📫 How to reach me **a0987399832@gmail.com**
 
