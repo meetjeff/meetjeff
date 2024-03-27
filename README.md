@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jeff</h1>
 <h3 align="center">A Software Engineer, <br>passionate about data processing, program development and optimization, <br>enjoy the process of solving problems, researching new knowledge and sharing techniques.</h3>
 
-- 🔭 I’m currently working on [ERP system](https://github.com/meetjeff/ERP)
+- 🔭 I’m currently working on [bigquery-manager](https://github.com/meetjeff/bigquery-manager)
 
-- 🌱 I’m currently learning **Azure**
-
-- 💬 Ask me about **Flask, Python, Linux, Azure, SQL, Web development**
+- 💬 Ask me about **C#, Python, SQL, K8S, GCP, Azure, Kafka**
 
 - 📫 How to reach me **a0987399832@gmail.com**
 
