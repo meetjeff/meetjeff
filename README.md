@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jeff</h1>
 <h3 align="center">A Software Engineer, <br>passionate about data processing, program development and optimization, <br>enjoy the process of solving problems, researching new knowledge and sharing techniques.</h3>
 
-- 🔭 I’m currently working on [bigquery-manager](https://github.com/meetjeff/bigquery-manager)
+- 🔭 I’m currently working on [reverse-image-search](https://github.com/meetjeff/reverse-image-search)
 
 - 💬 Ask me about **C#, Python, SQL, K8S, GCP, Azure, Kafka**
 
