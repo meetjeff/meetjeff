@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [mysqlcdc-elasticsearch](https://github.com/meetjeff/mysqlcdc-elasticsearch)
 
-- 💬 Ask me about **C#, Python, SQL, K8S, GCP, Azure, Kafka**
+- 💬 Ask me about **Python, C#, Java, SQL, K8S, AWS, GCP, Azure, Kafka, Flink, Elasticsearch, Milvus, GitLab CI**
 
 - 📫 How to reach me **a0987399832@gmail.com**
 
